@@ -1,0 +1,30 @@
+.jumbotron {
+  text-align: center;
+  background-color: pink;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+.well {
+  margin: 5px;
+  height: 200px;
+}
+
+.well:hover {
+  background-color: pink;
+}
+
+.col-sm-4 {
+  padding: 0px;
+}
