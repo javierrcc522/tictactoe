@@ -18,14 +18,9 @@ var player2 = new Player ("Javi", "O");
 
 var turnTracker = 2
 
-Player.prototype.win = function() {
-  if (this.matrix[0][0] === "X")
-  alert ("hi");
-}
 
 //Front-End
 $(document).ready(function() {
-
   //well [0][0]
   $('.well#1').click(function(event) {
     event.preventDefault();
