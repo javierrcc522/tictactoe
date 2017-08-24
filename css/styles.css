@@ -16,6 +16,11 @@ ul {
   list-style: none;
 }
 
+h3 {
+  font-size: 100px;
+  text-align: center;
+}
+
 .well {
   margin: 5px;
   height: 200px;
